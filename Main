@@ -1,0 +1,9 @@
+public class Main {
+
+    public static void main(String[] args) {
+    Lodziarnia Lody = new Lodziarnia();
+    Lody.nazwa();
+    System.out.print("\nPrzykładowa cena za loda 2-gałkowego: ");
+    Lody.ObliczCene();
+    }
+}
