@@ -6,7 +6,7 @@ public class Lodziarnia {
         System.out.print(nazwa);
     }
     public void ObliczCene() {
-        cena=CenaZaKulke2*1.23;
+        cena=CenaZaKulke*2*1.23;
     System.out.print(cena);
     }
 }
