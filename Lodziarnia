@@ -1,0 +1,12 @@
+public class Lodziarnia {
+    String nazwa="Lodziarnia Getter i setter";
+    double CenaZaKulke=5;
+    double cena;
+    public void nazwa() {
+        System.out.print(nazwa);
+    }
+    public void ObliczCene() {
+        cena=CenaZaKulke2*1.23;
+    System.out.print(cena);
+    }
+}
